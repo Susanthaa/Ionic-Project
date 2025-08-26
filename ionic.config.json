@@ -1,0 +1,7 @@
+{
+  "name": "tieuNhi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
